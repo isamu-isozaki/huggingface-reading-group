@@ -2,7 +2,7 @@
 Welcome to the Huggingface Reading Group! The goal of this group is to do have a weekly presentation on research papers/group of papers. The goal of this repository is to compile all the past presentation write ups and recordings.
 
 ## Brief history
-This group started from huggingface community memeber James Kelly on 09/26/2023. In the beginning, we "presented" via summary of papers in discord threads but we started 1/12/2024 to do presentations in discord calls thanks to Phil Butler. The presentations, in general, are targetted for the general audience on subject of Large Language Models but no research papers are off limits.
+This group started from huggingface community memeber James Kelly on 09/26/2023. In the beginning, we "presented" via summary of papers in discord threads but we started 1/12/2024 to do presentations in discord calls thanks to Phil Butler. The presentations, in general, are targetted for the general audience on subject of Generative Models but no research papers are off limits.
 
 ## 0: Ambiguity-Aware In-Context Learning with Large Language Models(Presented on 9/27/2023)
 Presentor: James Kelly
