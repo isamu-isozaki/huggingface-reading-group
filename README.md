@@ -92,11 +92,15 @@ Presenter: Phil Butler
 
 Paper: [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io/resources/mobile-aloha.pdf)
 
-Unfortunately, no recordings but a few of the coauthors came.
+[Write up](https://sota.beehiiv.com/p/mobile-aloha?utm_source=sota.beehiiv.com&utm_medium=newsletter&utm_campaign=mobile-aloha)
+
+Unfortunately, no recordings but a coauthors came.
 
 ## 11: Literature Review on AI in Law(Presented on 2/2/2024)
 Presenter: Isamu Isozaki
 
 Papers: [On the acceptability of arguments and its fundamental role in non-monotonic reasoning, logic programming, and n-person games](https://www.ijcai.org/Proceedings/93-2/Papers/003.pdf)+[An Answer Set Programming Approach to Argumentative Reasoning in the ASPIC+ Framework](https://proceedings.kr.org/2020/63/kr2020-0063-lehtonen-et-al.pdf)+[HYPO’s legacy: introduction to the virtual special issue](https://link.springer.com/article/10.1007/s10506-017-9201-1)+[Induction of Defeasible Logic Theories in the Legal Domain](https://dl.acm.org/doi/10.1145/1047788.1047834)+[Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset](https://arxiv.org/abs/2207.00220)+[Large Language Models in Law: A Survey](https://arxiv.org/abs/2312.03718)+[The Smart Court - A New Pathway to Justice in China?](https://storage.googleapis.com/jnl-up-j-ijca-files/journals/1/articles/367/submission/proof/367-1-1754-2-10-20210311.pdf)
+
+[Write up](https://medium.com/@isamu-website/literature-review-on-ai-in-law-7fe80e352c34)
 
 [Recording](https://drive.google.com/file/d/1R6hQnEISYT8eGSDwHO-Hwi57rdtT4Q_-/view?usp=sharing)
