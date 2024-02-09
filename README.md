@@ -103,7 +103,7 @@ Papers: [On the acceptability of arguments and its fundamental role in non-monot
 
 [Write up](https://medium.com/@isamu-website/literature-review-on-ai-in-law-7fe80e352c34)
 
-[Recording](https://drive.google.com/file/d/1R6hQnEISYT8eGSDwHO-Hwi57rdtT4Q_-/view?usp=sharing)
+[Recording](https://www.youtube.com/watch?v=RGdeGiCe0ig)
 
 [Slides](slides/11)
 
@@ -111,3 +111,5 @@ Papers: [On the acceptability of arguments and its fundamental role in non-monot
 Presentor: Tonic
 
 Paper: [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
+
+[Recording](https://youtu.be/_2SWu1SOcG0)
