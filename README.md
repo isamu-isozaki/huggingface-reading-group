@@ -113,3 +113,5 @@ Presentor: Tonic
 Paper: [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
 
 [Recording](https://youtu.be/_2SWu1SOcG0)
+
+[Slides](slides/12)
