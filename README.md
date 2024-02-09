@@ -105,7 +105,7 @@ Papers: [On the acceptability of arguments and its fundamental role in non-monot
 
 [Recording](https://drive.google.com/file/d/1R6hQnEISYT8eGSDwHO-Hwi57rdtT4Q_-/view?usp=sharing)
 
-[Slides](slides/11/Law%20and%20AI.pdf)
+[Slides](slides/11)
 
 ## 12: A forthcoming decoder-only foundation model for time-series forecasting & further research(Presented on 2/9/2024)
 Presentor: Tonic
