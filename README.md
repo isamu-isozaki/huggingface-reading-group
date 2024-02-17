@@ -115,3 +115,10 @@ Paper: [A decoder-only foundation model for time-series forecasting](https://arx
 [Recording](https://youtu.be/_2SWu1SOcG0)
 
 [Slides](slides/12)
+
+## 13: Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+Presentor: Eric Auld
+
+Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+
+[Recording](https://www.youtube.com/watch?v=CWQuL8dpCRY)
