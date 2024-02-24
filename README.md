@@ -108,7 +108,7 @@ Papers: [On the acceptability of arguments and its fundamental role in non-monot
 [Slides](slides/11)
 
 ## 12: A forthcoming decoder-only foundation model for time-series forecasting & further research(Presented on 2/9/2024)
-Presentor: Tonic
+Presenter: Tonic
 
 Paper: [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
 
@@ -117,8 +117,15 @@ Paper: [A decoder-only foundation model for time-series forecasting](https://arx
 [Slides](slides/12)
 
 ## 13: Mamba: Linear-Time Sequence Modeling with Selective State Spaces
-Presentor: Eric Auld
+Presenter: Eric Auld
 
 Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 
 [Recording](https://www.youtube.com/watch?v=CWQuL8dpCRY)
+
+## 14: Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures
+Presenter: Vincent Abbott
+
+Paper: [Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures](https://arxiv.org/abs/2402.05424)
+
+[Recording](https://youtu.be/pwM_PzqvF9U)
