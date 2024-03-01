@@ -124,8 +124,15 @@ Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https:
 [Recording](https://www.youtube.com/watch?v=CWQuL8dpCRY)
 
 ## 14: Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures
-Presenter: Vincent Abbott
+Presenter: Vincent Abbott. Author of the paper
 
 Paper: [Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures](https://arxiv.org/abs/2402.05424)
 
 [Recording](https://youtu.be/pwM_PzqvF9U)
+
+## 15: SOTA on Model Merging
+Presenter: Prateek Yadav. Author of TIES
+
+Papers: [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)+[Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/abs/2311.03099)
+
+[Recording](https://www.youtube.com/watch?v=OsAKLPhwG0Q&t=3s)
