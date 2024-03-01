@@ -131,8 +131,8 @@ Paper: [Neural Circuit Diagrams: Robust Diagrams for the Communication, Implemen
 [Recording](https://youtu.be/pwM_PzqvF9U)
 
 ## 15: SOTA on Model Merging
-Presenter: Prateek Yadav. Author of TIES
+Presenter: Prateek Yadav. Author of TIES-Merging and ComPEFT
 
-Papers: [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)+[Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/abs/2311.03099)
+Papers: [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)+[Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/abs/2311.03099)+[ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization](https://arxiv.org/abs/2311.13171)+[Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/abs/2402.05859)
 
 [Recording](https://www.youtube.com/watch?v=OsAKLPhwG0Q&t=3s)
