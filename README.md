@@ -38,7 +38,7 @@ Papers: [Text Embeddings Reveal (Almost) As Much As Text](https://arxiv.org/abs/
 [Discord Thread](https://discord.com/channels/879548962464493619/1164728400754245793/1164728404470411364)
 
 ## 4: Training Image Derivatives: Increased Accuracy and Universal Robustness(Presented on 11/08/2023)
-Presenter: Vsevolod I. Avrutskiy
+Presenter: Vsevolod I. Avrutskiy. Author of the paper
 
 Paper: [Training Image Derivatives: Increased Accuracy and Universal Robustness](https://arxiv.org/abs/2310.14045)
 
@@ -81,7 +81,7 @@ Paper: [Common Diffusion Noise Schedules and Sample Steps are Flawed](https://ar
 [Discord Thread](https://discord.com/channels/879548962464493619/1156269946427428974/1187304406841049108)
 
 ## 9: The Tyranny of Possibilities in the Design of Task-Oriented LLM Systems: A Scoping Survey(Presented on 1/5/2024)
-Presenter: Dhruv Dhamani
+Presenter: Dhruv Dhamani. Author of the paper
 
 Paper: [The Tyranny of Possibilities in the Design of Task-Oriented LLM Systems: A Scoping Survey](https://arxiv.org/abs/2312.17601)
 
