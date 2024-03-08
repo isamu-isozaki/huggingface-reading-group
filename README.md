@@ -136,3 +136,12 @@ Presenter: Prateek Yadav. Author of TIES-Merging and ComPEFT
 Papers: [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)+[Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/abs/2311.03099)+[ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization](https://arxiv.org/abs/2311.13171)+[Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/abs/2402.05859)
 
 [Recording](https://www.youtube.com/watch?v=OsAKLPhwG0Q&t=3s)
+
+## 16: Gemini 1.5 Pro: Unlock reasoning and knowledge from entire books and movies in a single prompt
+Presenter: Shashank Shekhar
+
+Papers: [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) + [Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference](https://arxiv.org/abs/2110.03742) + [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) + [Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts](https://arxiv.org/abs/2206.02770)
+
+[Recording](https://www.youtube.com/watch?v=IuehDA1M_Lw)
+
+[Slides](https://link.excalidraw.com/p/readonly/16L28yECcUG802Ec2rmx)
