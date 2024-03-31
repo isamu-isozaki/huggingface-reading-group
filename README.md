@@ -147,8 +147,17 @@ Papers: [Gemini 1.5: Unlocking multimodal understanding across millions of token
 [Slides](https://link.excalidraw.com/p/readonly/16L28yECcUG802Ec2rmx)
 
 ## 17: HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction
-Presenter: Harvie Zhang. Author of HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction
+Presenter: Harvie Zhang. Author of the paper
 
-Papers: [HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction](https://arxiv.org/abs/2401.17948)
+Paper: [HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction](https://arxiv.org/abs/2401.17948)
 
 [Recording](https://www.youtube.com/watch?v=urgLoVPj1P8&t=23s&ab_channel=IsamuIsozaki)
+
+## 18: ProteinBERT: A universal deep-learning model of protein sequence and function
+Presenter: Dan Ofer. Author of the papers
+
+Papers: [ProteinBERT: A universal deep-learning model of protein sequence and function](https://www.biorxiv.org/content/10.1101/2021.05.24.445464v1)+[Detecting anomalous proteins using deep representations](https://academic.oup.com/nargab/article/6/1/lqae021/7614821)+[Protein Language Models Expose Viral Mimicry and Immune Escape](https://www.biorxiv.org/content/biorxiv/early/2024/03/15/2024.03.14.585057.full.pdf)
+
+[Recording](https://youtu.be/c_Fx-eFfFB0)
+
+[Slides](https://docs.google.com/presentation/d/1JqF0pZHHWieu4-w1d31HYux3rBkr21qh7mRxGnJGupo/edit#slide=id.ge53ec7dbea_0_0)
