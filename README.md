@@ -145,3 +145,10 @@ Papers: [Gemini 1.5: Unlocking multimodal understanding across millions of token
 [Recording](https://www.youtube.com/watch?v=IuehDA1M_Lw)
 
 [Slides](https://link.excalidraw.com/p/readonly/16L28yECcUG802Ec2rmx)
+
+## 17: HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction
+Presenter: Harvie Zhang. Author of HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction
+
+Papers: [HyperZ⋅Z⋅W Operator Connects Slow-Fast Networks for Full Context Interaction](https://arxiv.org/abs/2401.17948)
+
+[Recording](https://www.youtube.com/watch?v=urgLoVPj1P8&t=23s&ab_channel=IsamuIsozaki)
