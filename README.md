@@ -166,3 +166,14 @@ Papers: [ProteinBERT: A universal deep-learning model of protein sequence and fu
 I was absent this meeting so if anyone knows, please let me know/do a pr to fill this part!
 
 [Paper]: [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/abs/2403.10853)
+
+## 20: Graph Machine Learning in the Era of Large Language Models (LLMs)
+Presenter: Isamu Isozaki
+
+[Paper]: [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928)+[Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)+[House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://arxiv.org/abs/2003.06988)
+
+[Recording](https://www.youtube.com/watch?v=cgMAvqgq0Ew&ab_channel=IsamuIsozaki)
+
+[Write up](https://medium.com/@isamu-website/understanding-graph-machine-learning-in-the-era-of-large-language-models-llms-dce2fd3f3af4)
+
+[Slides](slides/20)
