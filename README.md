@@ -161,3 +161,8 @@ Papers: [ProteinBERT: A universal deep-learning model of protein sequence and fu
 [Recording](https://youtu.be/c_Fx-eFfFB0)
 
 [Slides](https://docs.google.com/presentation/d/1JqF0pZHHWieu4-w1d31HYux3rBkr21qh7mRxGnJGupo/edit#slide=id.ge53ec7dbea_0_0)
+
+## 19: Just Say the Name: Online Continual Learning with Category Names Only via Data Generation
+I was absent this meeting so if anyone knows, please let me know/do a pr to fill this part!
+
+[Paper]: [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/abs/2403.10853)
