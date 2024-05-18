@@ -177,3 +177,14 @@ Presenter: Isamu Isozaki
 [Write up](https://medium.com/@isamu-website/understanding-graph-machine-learning-in-the-era-of-large-language-models-llms-dce2fd3f3af4)
 
 [Slides](slides/20)
+
+## 21: Story Generation with AI
+Presenter: Isamu Isozaki
+
+[Paper]: [GROVE: A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence](https://arxiv.org/pdf/2310.05388)+[Creating Suspenseful Stories: Iterative Planning with Large Language Models](https://arxiv.org/pdf/2402.17119)+[Improving Pacing in Long-Form Story Planning](https://arxiv.org/pdf/2311.04459)+[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://www.arxiv.org/abs/2402.11051)+[Reading Subtext: Evaluating Large Language Models on Short Story Summarization with Writers](https://arxiv.org/pdf/2403.01061)+[DOC: Improving Long Story Coherence With Detailed Outline Control](https://arxiv.org/pdf/2212.10077)+[End-to-end Story Plot Generator](https://arxiv.org/pdf/2310.08796)+[Weaver: Foundation Models for Creative Writing](https://arxiv.org/pdf/2401.17268)
+
+[Recording](https://www.youtube.com/watch?v=UvWVfVnVZXc&ab_channel=IsamuIsozaki)
+
+[Write up](https://medium.com/@isamu-website/understanding-ai-for-stories-d0c1cd7b7bdc)
+
+[Slides](slides/21)
