@@ -165,12 +165,12 @@ Papers: [ProteinBERT: A universal deep-learning model of protein sequence and fu
 ## 19: Just Say the Name: Online Continual Learning with Category Names Only via Data Generation
 I was absent this meeting so if anyone knows, please let me know/do a pr to fill this part!
 
-[Paper]: [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/abs/2403.10853)
+Paper: [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/abs/2403.10853)
 
 ## 20: Graph Machine Learning in the Era of Large Language Models (LLMs)
 Presenter: Isamu Isozaki
 
-[Paper]: [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928)+[Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)+[House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://arxiv.org/abs/2003.06988)
+Papers: [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928)+[Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)+[House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://arxiv.org/abs/2003.06988)
 
 [Recording](https://www.youtube.com/watch?v=cgMAvqgq0Ew&ab_channel=IsamuIsozaki)
 
@@ -181,10 +181,21 @@ Presenter: Isamu Isozaki
 ## 21: Story Generation with AI
 Presenter: Isamu Isozaki
 
-[Paper]: [GROVE: A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence](https://arxiv.org/pdf/2310.05388)+[Creating Suspenseful Stories: Iterative Planning with Large Language Models](https://arxiv.org/pdf/2402.17119)+[Improving Pacing in Long-Form Story Planning](https://arxiv.org/pdf/2311.04459)+[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://www.arxiv.org/abs/2402.11051)+[Reading Subtext: Evaluating Large Language Models on Short Story Summarization with Writers](https://arxiv.org/pdf/2403.01061)+[DOC: Improving Long Story Coherence With Detailed Outline Control](https://arxiv.org/pdf/2212.10077)+[End-to-end Story Plot Generator](https://arxiv.org/pdf/2310.08796)+[Weaver: Foundation Models for Creative Writing](https://arxiv.org/pdf/2401.17268)
+Papers: [GROVE: A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence](https://arxiv.org/pdf/2310.05388)+[Creating Suspenseful Stories: Iterative Planning with Large Language Models](https://arxiv.org/pdf/2402.17119)+[Improving Pacing in Long-Form Story Planning](https://arxiv.org/pdf/2311.04459)+[Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://www.arxiv.org/abs/2402.11051)+[Reading Subtext: Evaluating Large Language Models on Short Story Summarization with Writers](https://arxiv.org/pdf/2403.01061)+[DOC: Improving Long Story Coherence With Detailed Outline Control](https://arxiv.org/pdf/2212.10077)+[End-to-end Story Plot Generator](https://arxiv.org/pdf/2310.08796)+[Weaver: Foundation Models for Creative Writing](https://arxiv.org/pdf/2401.17268)
 
 [Recording](https://www.youtube.com/watch?v=UvWVfVnVZXc&ab_channel=IsamuIsozaki)
 
 [Write up](https://medium.com/@isamu-website/understanding-ai-for-stories-d0c1cd7b7bdc)
 
 [Slides](slides/21)
+
+## 22: AlphaFold 3
+Presnter: Astra Bertelli
+
+Papers: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w)+[Highly accurate protein structure prediction with AlphaFold](https://doi.org/10.1038/s41586-021-03819-2)
+
+[Recording](https://youtu.be/qndfx4cdUZk)
+
+Write ups: [Huggingface blog](https://huggingface.co/blog/as-cle-bert/what-is-going-on-with-alphafold3)+[Github blog](https://astrabert.github.io/hophop-science/AI-predicts-proteins-and-edits-DNA/)
+
+[Slides](https://docs.google.com/presentation/d/1Q5GIE0-YsupEBvXRddoBsfVCWr9ewvcu/edit?usp=sharing&ouid=115858478176864292108&rtpof=true&sd=true)
