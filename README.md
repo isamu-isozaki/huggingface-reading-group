@@ -190,7 +190,7 @@ Papers: [GROVE: A Retrieval-augmented Complex Story Generation Framework with A 
 [Slides](slides/21)
 
 ## 22: AlphaFold 3
-Presnter: Astra Bertelli
+Presnter: starrynightdev
 
 Papers: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w)+[Highly accurate protein structure prediction with AlphaFold](https://doi.org/10.1038/s41586-021-03819-2)
 
