@@ -200,7 +200,7 @@ Write ups: [Huggingface blog](https://huggingface.co/blog/as-cle-bert/what-is-go
 
 [Slides](https://docs.google.com/presentation/d/1Q5GIE0-YsupEBvXRddoBsfVCWr9ewvcu/edit?usp=sharing&ouid=115858478176864292108&rtpof=true&sd=true)
 
-## 23: AI for Physics! Hamilton Neural Networks/Lagrangian Neural Networks
+## 23: AI for Physics. Hamilton Neural Networks/Lagrangian Neural Networks
 Presenter: PS_Venom
 
 Papers: [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563)+[Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630)
