@@ -199,3 +199,12 @@ Papers: [Accurate structure prediction of biomolecular interactions with AlphaFo
 Write ups: [Huggingface blog](https://huggingface.co/blog/as-cle-bert/what-is-going-on-with-alphafold3)+[Github blog](https://astrabert.github.io/hophop-science/AI-predicts-proteins-and-edits-DNA/)
 
 [Slides](https://docs.google.com/presentation/d/1Q5GIE0-YsupEBvXRddoBsfVCWr9ewvcu/edit?usp=sharing&ouid=115858478176864292108&rtpof=true&sd=true)
+
+## 23: AI for Physics! Hamilton Neural Networks/Lagrangian Neural Networks
+Presenter: PS_Venom
+
+Papers: [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563)+[Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630)
+
+[Recording](https://www.youtube.com/watch?v=rVw4Zipmo1I&ab_channel=IsamuIsozaki)
+
+[Slides](https://www.canva.com/design/DAGHa7wgn_U/3JRcQJTblrLhztmJUMUjPg/view)
