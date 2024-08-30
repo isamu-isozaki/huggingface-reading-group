@@ -219,3 +219,30 @@ Papers: [Natural Language Reasoning, A Survey](https://arxiv.org/abs/2303.14725)
 [Slides](slides/24)
 
 [Write up](https://medium.com/@isamu-website/understanding-the-current-state-of-reasoning-with-llms-dbd9fa3fc1a0)
+
+## 25:  Multimodal Structured Generation & CVPR’s 2nd MMFM Challenge
+Presenter: Franz Louis Cesista. Author of paper
+
+Paper: [Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report](https://arxiv.org/abs/2406.11403)
+
+[Recording](https://www.youtube.com/watch?v=Of2BGbciOWI)
+
+[Slides](https://docs.google.com/presentation/d/1UuPaLxesik7zEjVDP3V8tnjidX68iH4ZCUr_MpBY5Aw/edit)
+
+## 26: SEE-2-SOUND: Zero-Shot Spatial Environment-to-Spatial Sound
+Presenter: Rishit Dagli. First author of paper
+
+Paper: [SEE-2-SOUND: Zero-Shot Spatial Environment-to-Spatial Sound](https://arxiv.org/abs/2406.06612)
+
+[Recording](https://youtu.be/7wkgFR-HYjY)
+
+## 27: Understanding Penetration Testing with LLMs
+Presenter: Isamu Isozaki, Manil Shrestha
+
+Papers: [PentestGPT: An LLM-empowered Automatic Penetration Testing Tool](https://arxiv.org/abs/2308.06782)+[LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664)+[LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144)+[Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)+[LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks](https://arxiv.org/abs/2310.11409)+[AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks](https://arxiv.org/abs/2403.01038)
+
+[Recording](https://youtu.be/_f16ofdVC8g)
+
+[Slides](https://docs.google.com/presentation/d/1OF_wqUsbbsFoAu4XZFlcaaOmnZngrUuvQrTstcogZ5c/edit)
+
+[Write up](https://medium.com/gopenai/understanding-penetration-testing-with-llms-2b0ec6add14a)
