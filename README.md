@@ -208,3 +208,14 @@ Papers: [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563)+[Lagrang
 [Recording](https://www.youtube.com/watch?v=rVw4Zipmo1I&ab_channel=IsamuIsozaki)
 
 [Slides](https://www.canva.com/design/DAGHa7wgn_U/3JRcQJTblrLhztmJUMUjPg/view)
+
+## 24: Understanding Current State of Reasoning with LLMs
+Presenter: Isamu Isozaki
+
+Papers: [Natural Language Reasoning, A Survey](https://arxiv.org/abs/2303.14725) + [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) + [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) + [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) + [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114) + [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) + [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) + [Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2305.16582)+[Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought](https://arxiv.org/abs/2308.08614) + [Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters](https://arxiv.org/abs/2212.10001) + [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093) + [Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://arxiv.org/abs/2305.04388) + [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) + [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925) + [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/abs/2305.12295) + [Efficient Tool Use with Chain-of-Abstraction Reasoning](https://arxiv.org/abs/2401.17464) + [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/abs/2404.10642)
+
+[Recording](https://www.youtube.com/watch?v=vbji1PvXgBc&ab_channel=IsamuIsozaki)
+
+[Slides](slides/24)
+
+[Write up](https://medium.com/@isamu-website/understanding-the-current-state-of-reasoning-with-llms-dbd9fa3fc1a0)
